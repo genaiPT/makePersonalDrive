@@ -1,13 +1,13 @@
 # Making a personal storage server
 
 I buit a personal server, kinda like google drive.
-First, i built this for a friend that wanted be able to plug a pen on the server and then acess its files whenever he was with whatever device.
+Innitially, I built this for a friend that wanted to be able to plug a pen on the server and then access it's files whenever he was with whatever device.
 
-Then I thought that this is actually usefull so I made one for my self as well.
+Then I realized that this is actually usefull so I made one for my self as well.
 
-My day job is clinical psychologist and actually became very convenient to be able to acess my files without having to login with google to use the Gdrive. It is also a very quick way to share files between devices.
+My day job is clinical psychologist and this drive actually became very convenient to be able to access my files without having to login with google to use the Gdrive. It is also a very quick way to share files between devices.
 
-You can have a glimpse of how this project will work using an already build personal drive:
+You can have a glimpse of how this project will work using an already made personal drive:
 
 [Personal Drive](https://personal-drive-amber.vercel.app/)
 
