@@ -149,7 +149,7 @@ npm -v //should return something like 10.2.4 (my version)
 `sudo apt-get install git-all`
 
 clone the repo, you will get both the front and back ends.
-``
+`git clone https://github.com/genaiPT/makePersonalDrive`
 
 go to the backend directory and install the node packages
 `npm i`
