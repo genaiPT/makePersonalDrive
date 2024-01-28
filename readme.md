@@ -197,7 +197,7 @@ On the Frontend you really just have to edit the "ADDRESS_SERVER" variable in th
 
 To deploy it, basically any host service will do. It uses the Vite framework so you can use their guides to better inform you how to do it.
 
-And it's done, if manage to get here, congratulations - you have your own drive to store and acess your files.
+And it's done, if manage you to get here, congratulations - you have your own drive to store and access your files.
 
 If you had any problems, feel free to contact me :D
 
