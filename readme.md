@@ -126,7 +126,7 @@ Activate the firewall:
 `sudo ufw enable`
 
 ### Install Node
-We are going to use nvm to install node, nvm is kind of a future proof installation of node. Run:
+We are going to use nvm to install node, nvm is kind of a future proof installation of node.
 
 Run:
 `curl https://raw.githubusercontent.com/creationix/nvm/master/install.sh | bash`
@@ -158,9 +158,9 @@ go to the backend directory and install the node packages
 On this backend there is no database, you can't register throught the front-end, you must hardcode the users directly in the backend, modyfing the USERS.js file. (of course you can implement the registration if you need it).
 
 The app consists basically for js files:
- - app.js - the main file with ass the routes.
+ - app.js - the main file with the routes.
  - login.js - has the middleware that handles login and sessions related events with JWT
- - csrf.js - handles the CSRF security
+ - csrf.js - implements CSRF security
  - USERS.js - has an object with the users
 
 You have minimall things to edit, just go thought the files and read the comments in all caps.
